@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "SmartPlate",
+    "slug": "smartplate-mobile",
+    "version": "2.0.0",
+    "orientation": "portrait",
+    "icon": "../public/icon-512.png",
+    "userInterfaceStyle": "light",
+    "scheme": "smartplate",
+    "splash": {
+      "backgroundColor": "#ffffff",
+      "resizeMode": "contain"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.smartplate.app",
+      "infoPlist": {
+        "NSCameraUsageDescription": "SmartPlate uses camera access to capture photographs of surplus food for quality and safety verification.",
+        "NSPhotoLibraryUsageDescription": "SmartPlate accesses your photo library to attach surplus food batch images."
+      }
+    },
+    "android": {
+      "package": "com.smartplate.app",
+      "versionCode": 2,
+      "adaptiveIcon": {
+        "foregroundImage": "../public/icon-512.png",
+        "backgroundColor": "#ffffff"
+      },
+      "permissions": [
+        "CAMERA",
+        "READ_EXTERNAL_STORAGE",
+        "WRITE_EXTERNAL_STORAGE",
+        "INTERNET"
+      ]
+    },
+    "web": {
+      "favicon": "../public/favicon.svg"
+    }
+  }
+}

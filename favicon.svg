@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#10b981" />
+      <stop offset="100%" stop-color="#059669" />
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#059669" flood-opacity="0.35" />
+    </filter>
+  </defs>
+
+  <!-- Background rounded rect -->
+  <rect width="512" height="512" rx="128" fill="#0f172a" />
+  
+  <!-- Outer Shield Emblem -->
+  <path d="M256 64 C350 64 416 110 416 210 C416 320 280 410 256 432 C232 410 96 320 96 210 C96 110 162 64 256 64 Z" 
+        fill="url(#grad)" filter="url(#shadow)" />
+
+  <!-- Inner White Clock Circle -->
+  <circle cx="256" cy="235" r="95" fill="#ffffff" />
+
+  <!-- Clock Hour / Minute Hands -->
+  <line x1="256" y1="235" x2="256" y2="175" stroke="#0f172a" stroke-width="14" stroke-linecap="round" />
+  <line x1="256" y1="235" x2="305" y2="235" stroke="#10b981" stroke-width="14" stroke-linecap="round" />
+  <circle cx="256" cy="235" r="10" fill="#0f172a" />
+
+  <!-- Sprout / Fresh Leaf at 12 o'clock -->
+  <path d="M256 120 C230 90 280 80 256 120 Z" fill="#ffffff" />
+</svg>

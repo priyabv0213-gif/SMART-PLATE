@@ -1,0 +1,1976 @@
+{
+  "donations": [
+    {
+      "id": "DON-CBE-101",
+      "donorName": "Annapoorna Gowrishankar Sweets & Restaurant",
+      "donorType": "Restaurant",
+      "foodCategory": "Cooked meals",
+      "foodName": "South Indian Rice & Dal Meals",
+      "description": "Surplus South Indian afternoon meals: Sambar rice, Dal tadka, Poriyal, Curd rice, and Rasam",
+      "quantity": 90,
+      "unit": "meals",
+      "preparedAt": "2026-10-09T09:47:55.941Z",
+      "storageCondition": "hot-holding",
+      "currentTempC": 64,
+      "verifiedSafeDeadline": "2026-10-09T13:47:55.943Z",
+      "safetyRuleId": "FSSAI-SURPLUS-COOKED",
+      "safetyVerified": true,
+      "city": "Coimbatore",
+      "location": {
+        "lat": 10.9982,
+        "lng": 76.9531,
+        "name": "Annapoorna RS Puram",
+        "address": "75 East Lokamanya St, RS Puram, Coimbatore, Tamil Nadu"
+      },
+      "pickupReadinessTime": "2026-10-09T10:37:55.943Z",
+      "specialHandling": [
+        "Keep warm > 60°C",
+        "FSSAI hygiene compliant thermal boxes"
+      ],
+      "status": "Available",
+      "imageUrl": "https://images.unsplash.com/photo-1610057099443-fde8c4d50f91?w=800&auto=format&fit=crop&q=80",
+      "createdAt": "2026-10-09T09:52:55.943Z"
+    },
+    {
+      "id": "DON-CBE-102",
+      "donorName": "The Residency Towers Banquet",
+      "donorType": "Hotel",
+      "foodCategory": "Rice & prepared dishes",
+      "foodName": "Vegetable Dum Biryani",
+      "description": "Corporate convention buffet surplus: Vegetable Dum Biryani, Ghee rice, Dal Makhani",
+      "quantity": 110,
+      "unit": "meals",
+      "preparedAt": "2026-10-09T10:02:55.943Z",
+      "storageCondition": "hot-holding",
+      "currentTempC": 62,
+      "verifiedSafeDeadline": "2026-10-09T14:02:55.943Z",
+      "safetyRuleId": "FSSAI-SURPLUS-COOKED",
+      "safetyVerified": true,
+      "city": "Coimbatore",
+      "location": {
+        "lat": 11.0135,
+        "lng": 76.9812,
+        "name": "The Residency Towers",
+        "address": "1076 Avinashi Road, Coimbatore, Tamil Nadu"
+      },
+      "pickupReadinessTime": "2026-10-09T10:42:55.943Z",
+      "specialHandling": [
+        "Keep warm",
+        "Insulated hot containers"
+      ],
+      "status": "Available",
+      "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?w=800&auto=format&fit=crop&q=80",
+      "createdAt": "2026-10-09T10:07:55.943Z"
+    },
+    {
+      "id": "DON-CBE-103",
+      "donorName": "Sri Krishna Sweets & Bakery",
+      "donorType": "Bakery",
+      "foodCategory": "Bakery products",
+      "foodName": "Fresh Baked Bread & Buns",
+      "description": "Fresh unsold baked goods: Wheat bread loaves, vegetable buns, and dry sweets",
+      "quantity": 45,
+      "unit": "meals",
+      "preparedAt": "2026-10-09T07:32:55.943Z",
+      "storageCondition": "ambient",
+      "verifiedSafeDeadline": "2026-10-10T06:32:55.943Z",
+      "safetyRuleId": "EU-HYGIENE-BAKERY-24H",
+      "safetyVerified": true,
+      "city": "Coimbatore",
+      "location": {
+        "lat": 11.0185,
+        "lng": 76.9674,
+        "name": "Sri Krishna Sweets Gandhipuram",
+        "address": "Cross Cut Road, Gandhipuram, Coimbatore, Tamil Nadu"
+      },
+      "pickupReadinessTime": "2026-10-09T10:32:55.943Z",
+      "specialHandling": [
+        "Dry transport",
+        "Protect from moisture"
+      ],
+      "status": "Available",
+      "imageUrl": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=800&auto=format&fit=crop&q=80",
+      "createdAt": "2026-10-09T09:32:55.943Z"
+    },
+    {
+      "id": "DON-CBE-104",
+      "donorName": "Kovai Pazhamudir Nilayam Produce",
+      "donorType": "Supermarket",
+      "foodCategory": "Fruits & vegetables",
+      "foodName": "Fresh Harvest Fruits & Vegetables",
+      "description": "Surplus fresh harvest: Ripe bananas, apples, fresh tomatoes, beans and greens",
+      "quantity": 80,
+      "unit": "kg",
+      "preparedAt": "2026-10-09T04:32:55.943Z",
+      "storageCondition": "ambient",
+      "verifiedSafeDeadline": "2026-10-11T02:32:55.943Z",
+      "safetyRuleId": "PRODUCE-FRESH-48H",
+      "safetyVerified": true,
+      "city": "Coimbatore",
+      "location": {
+        "lat": 11.0284,
+        "lng": 77.0051,
+        "name": "Kovai Pazhamudir Peelamedu",
+        "address": "Avinashi Road, Near PSG Tech, Peelamedu, Coimbatore, Tamil Nadu"
+      },
+      "pickupReadinessTime": "2026-10-09T10:47:55.943Z",
+      "specialHandling": [
+        "Crated produce handling"
+      ],
+      "status": "Available",
+      "imageUrl": "https://images.unsplash.com/photo-1610832958506-aa56368176cf?w=800&auto=format&fit=crop&q=80",
+      "createdAt": "2026-10-09T08:32:55.943Z"
+    },
+    {
+      "id": "DON-CBE-105",
+      "donorName": "Aavin Dairy Chilled Distribution Hub",
+      "donorType": "Supermarket",
+      "foodCategory": "Dairy & chilled",
+      "foodName": "Pasteurized Curd & Fresh Milk",
+      "description": "Pasteurized curd pouches, paneer packets, and standardized fresh milk",
+      "quantity": 50,
+      "unit": "portions",
+      "preparedAt": "2026-10-09T09:32:55.943Z",
+      "storageCondition": "refrigerated",
+      "currentTempC": 3.5,
+      "verifiedSafeDeadline": "2026-10-09T15:32:55.943Z",
+      "safetyRuleId": "FDA-TPHC-COLD-6H",
+      "safetyVerified": true,
+      "city": "Coimbatore",
+      "location": {
+        "lat": 11.0062,
+        "lng": 76.9453,
+        "name": "Aavin Milk Hub RS Puram",
+        "address": "Cowley Brown Road, RS Puram, Coimbatore, Tamil Nadu"
+      },
+      "pickupReadinessTime": "2026-10-09T10:52:55.943Z",
+      "specialHandling": [
+        "Refrigerated van mandatory <= 4°C"
+      ],
+      "status": "Available",
+      "imageUrl": "https://images.unsplash.com/photo-1528750997573-59b89d56f4f7?w=800&auto=format&fit=crop&q=80",
+      "createdAt": "2026-10-09T10:02:55.943Z"
+    },
+    {
+      "id": "DON-CBE-106",
+      "donorName": "Ukkadam Seafood & Curry House (Unverified)",
+      "donorType": "Restaurant",
+      "foodCategory": "Cooked meals",
+      "foodName": "Fish Curry & Parotta (Unverified Audit)",
+      "description": "Fish curry and parotta surplus without temperature monitoring log",
+      "quantity": 35,
+      "unit": "meals",
+      "preparedAt": "2026-10-09T08:32:55.943Z",
+      "storageCondition": "ambient",
+      "verifiedSafeDeadline": "2026-10-09T11:32:55.943Z",
+      "safetyRuleId": "FSSAI-SURPLUS-COOKED",
+      "safetyVerified": false,
+      "city": "Coimbatore",
+      "location": {
+        "lat": 10.9902,
+        "lng": 76.9612,
+        "name": "Ukkadam Seafood House",
+        "address": "Opposite Big Tank, Ukkadam, Coimbatore, Tamil Nadu"
+      },
+      "pickupReadinessTime": "2026-10-09T10:32:55.943Z",
+      "specialHandling": [
+        "Audit required before human distribution"
+      ],
+      "status": "Pending verification",
+      "imageUrl": "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?w=800&auto=format&fit=crop&q=80",
+      "createdAt": "2026-10-09T10:22:55.943Z"
+    },
+    {
+      "id": "DON-CBE-107",
+      "donorName": "Sree Annapoorna Gandhipuram",
+      "donorType": "Restaurant",
+      "foodCategory": "Cooked meals",
+      "foodName": "Steamed Idli with Chutney & Sambar",
+      "description": "Soft steamed South Indian idlis with coconut chutney and piping hot drumstick sambar",
+      "quantity": 60,
+      "unit": "meals",
+      "preparedAt": "2026-10-09T09:52:55.943Z",
+      "storageCondition": "hot-holding",
+      "currentTempC": 63,
+      "verifiedSafeDeadline": "2026-10-09T13:32:55.943Z",
+      "safetyRuleId": "FSSAI-SURPLUS-COOKED",
+      "safetyVerified": true,
+      "city": "Coimbatore",
+      "location": {
+        "lat": 11.0175,
+        "lng": 76.9665,
+        "name": "Annapoorna Gandhipuram",
+        "address": "Dr Nanjappa Road, Gandhipuram, Coimbatore, Tamil Nadu"
+      },
+      "pickupReadinessTime": "2026-10-09T10:42:55.943Z",
+      "specialHandling": [
+        "Thermal insulated food containers"
+      ],
+      "status": "Available",
+      "imageUrl": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=800&auto=format&fit=crop&q=80",
+      "createdAt": "2026-10-09T09:57:55.943Z"
+    },
+    {
+      "id": "DON-CBE-108",
+      "donorName": "Anandhaas Pure Veg Restaurant",
+      "donorType": "Restaurant",
+      "foodCategory": "Cooked meals",
+      "foodName": "Crispy Masala Dosa with Chutneys",
+      "description": "Crispy golden masala dosas packed with spiced potato filling, coconut & tomato chutneys",
+      "quantity": 40,
+      "unit": "meals",
+      "preparedAt": "2026-10-09T10:07:55.943Z",
+      "storageCondition": "hot-holding",
+      "currentTempC": 61,
+      "verifiedSafeDeadline": "2026-10-09T13:02:55.943Z",
+      "safetyRuleId": "FSSAI-SURPLUS-COOKED",
+      "safetyVerified": true,
+      "city": "Coimbatore",
+      "location": {
+        "lat": 11.0015,
+        "lng": 76.974,
+        "name": "Anandhaas Race Course",
+        "address": "Race Course Road, Coimbatore, Tamil Nadu"
+      },
+      "pickupReadinessTime": "2026-10-09T10:47:55.943Z",
+      "specialHandling": [
+        "Keep warm"
+      ],
+      "status": "Available",
+      "imageUrl": "https://images.unsplash.com/photo-1668236543090-82eba5ee5976?w=800&auto=format&fit=crop&q=80",
+      "createdAt": "2026-10-09T10:12:55.943Z"
+    },
+    {
+      "id": "DON-CBE-109",
+      "donorName": "Arya Bhavan Traditional Kitchen",
+      "donorType": "Restaurant",
+      "foodCategory": "Cooked meals",
+      "foodName": "Fresh Whole Wheat Chapati & Dal",
+      "description": "Whole wheat soft chapatis packed with yellow dal tadka and mixed vegetable curry",
+      "quantity": 70,
+      "unit": "meals",
+      "preparedAt": "2026-10-09T09:42:55.943Z",
+      "storageCondition": "hot-holding",
+      "currentTempC": 62,
+      "verifiedSafeDeadline": "2026-10-09T13:32:55.943Z",
+      "safetyRuleId": "FSSAI-SURPLUS-COOKED",
+      "safetyVerified": true,
+      "city": "Coimbatore",
+      "location": {
+        "lat": 11.0089,
+        "lng": 76.9512,
+        "name": "Arya Bhavan RS Puram",
+        "address": "DB Road, RS Puram, Coimbatore, Tamil Nadu"
+      },
+      "pickupReadinessTime": "2026-10-09T10:37:55.943Z",
+      "specialHandling": [
+        "Keep warm"
+      ],
+      "status": "Available",
+      "imageUrl": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=800&auto=format&fit=crop&q=80",
+      "createdAt": "2026-10-09T09:47:55.943Z"
+    },
+    {
+      "id": "DON-CBE-110",
+      "donorName": "Junior Kuppanna Kitchen",
+      "donorType": "Restaurant",
+      "foodCategory": "Rice & prepared dishes",
+      "foodName": "Traditional Chicken Biryani",
+      "description": "Hot authentic seeraga samba chicken biryani surplus from afternoon convention session",
+      "quantity": 85,
+      "unit": "meals",
+      "preparedAt": "2026-10-09T09:57:55.943Z",
+      "storageCondition": "hot-holding",
+      "currentTempC": 66,
+      "verifiedSafeDeadline": "2026-10-09T14:02:55.943Z",
+      "safetyRuleId": "FSSAI-SURPLUS-COOKED",
+      "safetyVerified": true,
+      "city": "Coimbatore",
+      "location": {
+        "lat": 11.021,
+        "lng": 76.971,
+        "name": "Junior Kuppanna Gandhipuram",
+        "address": "Cross Cut Road, Coimbatore, Tamil Nadu"
+      },
+      "pickupReadinessTime": "2026-10-09T10:42:55.943Z",
+      "specialHandling": [
+        "Keep warm > 60°C"
+      ],
+      "status": "Available",
+      "imageUrl": "https://images.unsplash.com/photo-1589302168068-964664d93dc0?w=800&auto=format&fit=crop&q=80",
+      "createdAt": "2026-10-09T10:02:55.943Z"
+    },
+    {
+      "id": "DON-TPR-201",
+      "donorName": "Kongu Mess & Catering",
+      "donorType": "Restaurant",
+      "foodCategory": "Cooked meals",
+      "foodName": "Layered Malabar Parotta & Veg Kurma",
+      "description": "Hot layered flaky parottas with rich coconut vegetable kurma in food-grade foil packaging",
+      "quantity": 50,
+      "unit": "meals",
+      "preparedAt": "2026-10-09T09:32:55.943Z",
+      "storageCondition": "hot-holding",
+      "currentTempC": 62,
+      "verifiedSafeDeadline": "2026-10-09T13:32:55.943Z",
+      "safetyRuleId": "FSSAI-SURPLUS-COOKED",
+      "safetyVerified": true,
+      "city": "Tiruppur",
+      "location": {
+        "lat": 11.1085,
+        "lng": 77.3411,
+        "name": "Kongu Mess Kumaran Road",
+        "address": "Kumaran Road, Near Railway Station, Tiruppur, Tamil Nadu"
+      },
+      "pickupReadinessTime": "2026-10-09T10:47:55.943Z",
+      "specialHandling": [
+        "Keep warm > 60°C"
+      ],
+      "status": "Available",
+      "imageUrl": "https://images.unsplash.com/photo-1626074353765-517a681e40be?w=800&auto=format&fit=crop&q=80",
+      "createdAt": "2026-10-09T09:42:55.943Z"
+    },
+    {
+      "id": "DON-CHN-202",
+      "donorName": "Murugan Idli Shop",
+      "donorType": "Restaurant",
+      "foodCategory": "Cooked meals",
+      "foodName": "Steamed Idlis & Medu Vadas with Chutney",
+      "description": "Fluffy idlis with crunchy medu vadas, four types of chutneys and hot sambar",
+      "quantity": 65,
+      "unit": "meals",
+      "preparedAt": "2026-10-09T09:52:55.943Z",
+      "storageCondition": "hot-holding",
+      "currentTempC": 63,
+      "verifiedSafeDeadline": "2026-10-09T14:02:55.943Z",
+      "safetyRuleId": "FSSAI-SURPLUS-COOKED",
+      "safetyVerified": true,
+      "city": "Chennai",
+      "location": {
+        "lat": 13.0418,
+        "lng": 80.2341,
+        "name": "Murugan Idli T. Nagar",
+        "address": "GN Chetty Road, T. Nagar, Chennai, Tamil Nadu"
+      },
+      "pickupReadinessTime": "2026-10-09T10:42:55.943Z",
+      "specialHandling": [
+        "Keep warm"
+      ],
+      "status": "Available",
+      "imageUrl": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?w=800&auto=format&fit=crop&q=80",
+      "createdAt": "2026-10-09T09:57:55.943Z"
+    },
+    {
+      "id": "DON-CHN-203",
+      "donorName": "Saravana Bhavan Banquet",
+      "donorType": "Hotel",
+      "foodCategory": "Cooked meals",
+      "foodName": "Traditional South Indian Meals (Sambar & Rasam)",
+      "description": "South Indian full meals with rice, sambar, rasam, kootu, poriyal and appalam",
+      "quantity": 120,
+      "unit": "meals",
+      "preparedAt": "2026-10-09T09:37:55.943Z",
+      "storageCondition": "hot-holding",
+      "currentTempC": 65,
+      "verifiedSafeDeadline": "2026-10-09T13:32:55.943Z",
+      "safetyRuleId": "FSSAI-SURPLUS-COOKED",
+      "safetyVerified": true,
+      "city": "Chennai",
+      "location": {
+        "lat": 13.0336,
+        "lng": 80.2678,
+        "name": "Saravana Bhavan Mylapore",
+        "address": "RK Mutt Road, Mylapore, Chennai, Tamil Nadu"
+      },
+      "pickupReadinessTime": "2026-10-09T10:47:55.943Z",
+      "specialHandling": [
+        "Keep warm > 60°C"
+      ],
+      "status": "Available",
+      "imageUrl": "https://images.unsplash.com/photo-1610057099443-fde8c4d50f91?w=800&auto=format&fit=crop&q=80",
+      "createdAt": "2026-10-09T09:47:55.943Z"
+    },
+    {
+      "id": "DON-BLR-204",
+      "donorName": "MTR 1924 Lalbagh",
+      "donorType": "Restaurant",
+      "foodCategory": "Cooked meals",
+      "foodName": "Fresh Wheat Chapati & Dal Tadka",
+      "description": "Hot wheat chapatis with rich dal tadka and seasonal vegetable palya",
+      "quantity": 80,
+      "unit": "meals",
+      "preparedAt": "2026-10-09T10:02:55.943Z",
+      "storageCondition": "hot-holding",
+      "currentTempC": 64,
+      "verifiedSafeDeadline": "2026-10-09T13:47:55.943Z",
+      "safetyRuleId": "FSSAI-SURPLUS-COOKED",
+      "safetyVerified": true,
+      "city": "Bengaluru",
+      "location": {
+        "lat": 12.9553,
+        "lng": 77.5857,
+        "name": "MTR Lalbagh Road",
+        "address": "14 Lalbagh Road, Mavalli, Bengaluru, Karnataka"
+      },
+      "pickupReadinessTime": "2026-10-09T10:42:55.943Z",
+      "specialHandling": [
+        "Keep warm"
+      ],
+      "status": "Available",
+      "imageUrl": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?w=800&auto=format&fit=crop&q=80",
+      "createdAt": "2026-10-09T10:07:55.943Z"
+    },
+    {
+      "id": "DON-BLR-205",
+      "donorName": "Meghana Foods Koramangala",
+      "donorType": "Restaurant",
+      "foodCategory": "Rice & prepared dishes",
+      "foodName": "Royal Vegetable Dum Biryani",
+      "description": "Fragrant Basmati vegetable biryani packed with fresh paneer and spiced gravy",
+      "quantity": 95,
+      "unit": "meals",
+      "preparedAt": "2026-10-09T09:47:55.944Z",
+      "storageCondition": "hot-holding",
+      "currentTempC": 63,
+      "verifiedSafeDeadline": "2026-10-09T14:02:55.944Z",
+      "safetyRuleId": "FSSAI-SURPLUS-COOKED",
+      "safetyVerified": true,
+      "city": "Bengaluru",
+      "location": {
+        "lat": 12.9352,
+        "lng": 77.6245,
+        "name": "Meghana Foods Koramangala",
+        "address": "5th Block, Koramangala, Bengaluru, Karnataka"
+      },
+      "pickupReadinessTime": "2026-10-09T10:47:55.944Z",
+      "specialHandling": [
+        "Keep warm > 60°C"
+      ],
+      "status": "Available",
+      "imageUrl": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?w=800&auto=format&fit=crop&q=80",
+      "createdAt": "2026-10-09T09:52:55.944Z"
+    }
+  ],
+  "recipients": [
+    {
+      "id": "REC-CBE-201",
+      "name": "No Food Waste Community Kitchen",
+      "type": "Community Kitchen",
+      "city": "Coimbatore",
+      "location": {
+        "lat": 10.9914,
+        "lng": 76.9588,
+        "name": "No Food Waste Ukkadam Hub",
+        "address": "Bypass Road, Ukkadam, Coimbatore, Tamil Nadu"
+      },
+      "acceptedCategories": [
+        "Cooked meals",
+        "Rice & prepared dishes",
+        "Bakery products",
+        "Fruits & vegetables"
+      ],
+      "demandQuantity": 80,
+      "maxReceivingCapacity": 95,
+      "currentStorageCapacity": 95,
+      "operatingHours": {
+        "open": "08:00",
+        "close": "21:30"
+      },
+      "minAcceptableQuantity": 10,
+      "maxAcceptableQuantity": 95,
+      "hasColdStorage": true,
+      "hasReheatingFacility": true,
+      "transportationCapability": "Both",
+      "active": true,
+      "currentLoad": 0,
+      "historicalStats": {
+        "acceptedCount": 52,
+        "rejectedCount": 1,
+        "fulfilledMeals": 3100
+      }
+    },
+    {
+      "id": "REC-CBE-202",
+      "name": "Universal Peace Foundation Care Home",
+      "type": "Shelter",
+      "city": "Coimbatore",
+      "location": {
+        "lat": 10.9972,
+        "lng": 77.0215,
+        "name": "Universal Peace Foundation Singanallur",
+        "address": "Trichy Road, Singanallur, Coimbatore, Tamil Nadu"
+      },
+      "acceptedCategories": [
+        "Cooked meals",
+        "Rice & prepared dishes",
+        "Dairy & chilled",
+        "Packaged food"
+      ],
+      "demandQuantity": 55,
+      "maxReceivingCapacity": 65,
+      "currentStorageCapacity": 65,
+      "operatingHours": {
+        "open": "09:00",
+        "close": "20:30"
+      },
+      "minAcceptableQuantity": 10,
+      "maxAcceptableQuantity": 65,
+      "hasColdStorage": true,
+      "hasReheatingFacility": true,
+      "transportationCapability": "Delivery-only",
+      "active": true,
+      "currentLoad": 0,
+      "historicalStats": {
+        "acceptedCount": 38,
+        "rejectedCount": 0,
+        "fulfilledMeals": 1800
+      }
+    },
+    {
+      "id": "REC-CBE-203",
+      "name": "Anbagam Destitute & Senior Care Shelter",
+      "type": "Youth Center",
+      "city": "Coimbatore",
+      "location": {
+        "lat": 11.0825,
+        "lng": 76.9942,
+        "name": "Anbagam Saravanampatti",
+        "address": "Sathy Road, Saravanampatti, Coimbatore, Tamil Nadu"
+      },
+      "acceptedCategories": [
+        "Cooked meals",
+        "Bakery products",
+        "Fruits & vegetables",
+        "Packaged food"
+      ],
+      "demandQuantity": 40,
+      "maxReceivingCapacity": 45,
+      "currentStorageCapacity": 45,
+      "operatingHours": {
+        "open": "10:00",
+        "close": "19:30"
+      },
+      "minAcceptableQuantity": 10,
+      "maxAcceptableQuantity": 45,
+      "hasColdStorage": true,
+      "hasReheatingFacility": true,
+      "transportationCapability": "Delivery-only",
+      "active": true,
+      "currentLoad": 0,
+      "historicalStats": {
+        "acceptedCount": 26,
+        "rejectedCount": 2,
+        "fulfilledMeals": 980
+      }
+    },
+    {
+      "id": "REC-CBE-204",
+      "name": "Asha Nivas Children Home & Food Bank",
+      "type": "Food Bank",
+      "city": "Coimbatore",
+      "location": {
+        "lat": 11.0024,
+        "lng": 76.9892,
+        "name": "Asha Nivas Ramanathapuram",
+        "address": "Puliakulam Road, Ramanathapuram, Coimbatore, Tamil Nadu"
+      },
+      "acceptedCategories": [
+        "Cooked meals",
+        "Rice & prepared dishes",
+        "Bakery products",
+        "Fruits & vegetables",
+        "Packaged food",
+        "Dairy & chilled"
+      ],
+      "demandQuantity": 115,
+      "maxReceivingCapacity": 140,
+      "currentStorageCapacity": 140,
+      "operatingHours": {
+        "open": "08:00",
+        "close": "22:00"
+      },
+      "minAcceptableQuantity": 15,
+      "maxAcceptableQuantity": 140,
+      "hasColdStorage": true,
+      "hasReheatingFacility": true,
+      "transportationCapability": "Both",
+      "active": true,
+      "currentLoad": 0,
+      "historicalStats": {
+        "acceptedCount": 88,
+        "rejectedCount": 2,
+        "fulfilledMeals": 6200
+      }
+    },
+    {
+      "id": "REC-CBE-205",
+      "name": "Helping Hearts Community Feeding Outreach",
+      "type": "Homeless Outreach",
+      "city": "Coimbatore",
+      "location": {
+        "lat": 10.9961,
+        "lng": 76.9634,
+        "name": "Helping Hearts Town Hall",
+        "address": "Opposite Railway Station, Town Hall, Coimbatore, Tamil Nadu"
+      },
+      "acceptedCategories": [
+        "Cooked meals",
+        "Rice & prepared dishes",
+        "Bakery products"
+      ],
+      "demandQuantity": 35,
+      "maxReceivingCapacity": 40,
+      "currentStorageCapacity": 40,
+      "operatingHours": {
+        "open": "11:00",
+        "close": "18:30"
+      },
+      "minAcceptableQuantity": 5,
+      "maxAcceptableQuantity": 40,
+      "hasColdStorage": false,
+      "hasReheatingFacility": true,
+      "transportationCapability": "Delivery-only",
+      "active": true,
+      "currentLoad": 0,
+      "historicalStats": {
+        "acceptedCount": 21,
+        "rejectedCount": 1,
+        "fulfilledMeals": 710
+      }
+    },
+    {
+      "id": "REC-TPR-301",
+      "name": "Tiruppur Karunai Community Feeding Centre",
+      "type": "Community Kitchen",
+      "city": "Tiruppur",
+      "location": {
+        "lat": 11.112,
+        "lng": 77.348,
+        "name": "Karunai Center Tiruppur",
+        "address": "Avinashi Road, Tiruppur, Tamil Nadu"
+      },
+      "acceptedCategories": [
+        "Cooked meals",
+        "Rice & prepared dishes",
+        "Bakery products"
+      ],
+      "demandQuantity": 50,
+      "maxReceivingCapacity": 60,
+      "currentStorageCapacity": 60,
+      "operatingHours": {
+        "open": "08:30",
+        "close": "20:30"
+      },
+      "minAcceptableQuantity": 10,
+      "maxAcceptableQuantity": 60,
+      "hasColdStorage": true,
+      "hasReheatingFacility": true,
+      "transportationCapability": "Both",
+      "active": true,
+      "currentLoad": 0,
+      "historicalStats": {
+        "acceptedCount": 18,
+        "rejectedCount": 0,
+        "fulfilledMeals": 920
+      }
+    },
+    {
+      "id": "REC-CHN-302",
+      "name": "Akshaya Patra Chennai Kitchen Hub",
+      "type": "Community Kitchen",
+      "city": "Chennai",
+      "location": {
+        "lat": 13.045,
+        "lng": 80.24,
+        "name": "Akshaya Patra T. Nagar",
+        "address": "T. Nagar Central Hub, Chennai, Tamil Nadu"
+      },
+      "acceptedCategories": [
+        "Cooked meals",
+        "Rice & prepared dishes",
+        "Bakery products"
+      ],
+      "demandQuantity": 120,
+      "maxReceivingCapacity": 150,
+      "currentStorageCapacity": 150,
+      "operatingHours": {
+        "open": "07:30",
+        "close": "21:00"
+      },
+      "minAcceptableQuantity": 20,
+      "maxAcceptableQuantity": 150,
+      "hasColdStorage": true,
+      "hasReheatingFacility": true,
+      "transportationCapability": "Both",
+      "active": true,
+      "currentLoad": 0,
+      "historicalStats": {
+        "acceptedCount": 45,
+        "rejectedCount": 1,
+        "fulfilledMeals": 4800
+      }
+    },
+    {
+      "id": "REC-BLR-303",
+      "name": "Robin Hood Army Bengaluru Food Shelter",
+      "type": "Shelter",
+      "city": "Bengaluru",
+      "location": {
+        "lat": 12.94,
+        "lng": 77.62,
+        "name": "RHA Koramangala Hub",
+        "address": "Koramangala 4th Block, Bengaluru, Karnataka"
+      },
+      "acceptedCategories": [
+        "Cooked meals",
+        "Rice & prepared dishes",
+        "Bakery products"
+      ],
+      "demandQuantity": 90,
+      "maxReceivingCapacity": 110,
+      "currentStorageCapacity": 110,
+      "operatingHours": {
+        "open": "08:00",
+        "close": "21:30"
+      },
+      "minAcceptableQuantity": 15,
+      "maxAcceptableQuantity": 110,
+      "hasColdStorage": true,
+      "hasReheatingFacility": true,
+      "transportationCapability": "Both",
+      "active": true,
+      "currentLoad": 0,
+      "historicalStats": {
+        "acceptedCount": 34,
+        "rejectedCount": 0,
+        "fulfilledMeals": 2900
+      }
+    }
+  ],
+  "vehicles": [
+    {
+      "id": "VEH-CBE-301",
+      "name": "Kovai Eco Van Alpha (EV)",
+      "type": "Insulated Electric Van",
+      "capacity": 220,
+      "currentLoad": 0,
+      "hasRefrigeration": true,
+      "speedKmH": 32,
+      "city": "Coimbatore",
+      "location": {
+        "lat": 11.0168,
+        "lng": 76.9558
+      },
+      "status": "Available",
+      "costPerKm": 1.1
+    },
+    {
+      "id": "VEH-CBE-302",
+      "name": "Rapid Cargo E-Bike Beta (City Courier)",
+      "type": "Cargo E-Bike",
+      "capacity": 75,
+      "currentLoad": 0,
+      "hasRefrigeration": false,
+      "speedKmH": 24,
+      "city": "Coimbatore",
+      "location": {
+        "lat": 11.005,
+        "lng": 76.96
+      },
+      "status": "Available",
+      "costPerKm": 0.35
+    },
+    {
+      "id": "VEH-CBE-303",
+      "name": "Tamil Nadu Cold-Chain Truck Gamma",
+      "type": "Refrigerated Van",
+      "capacity": 350,
+      "currentLoad": 0,
+      "hasRefrigeration": true,
+      "speedKmH": 28,
+      "city": "Coimbatore",
+      "location": {
+        "lat": 11.025,
+        "lng": 76.98
+      },
+      "status": "Available",
+      "costPerKm": 1.6
+    }
+  ],
+  "events": [
+    {
+      "id": "EVT-CBE-501",
+      "type": "recipient_cancellation",
+      "timestamp": "2026-10-09T10:17:55.944Z",
+      "title": "Anbagam Shelter Intake Cancellation",
+      "description": "Internal plumbing maintenance at Saravanampatti shelter required intake pause. 40 meals reallocated.",
+      "targetId": "REC-CBE-203",
+      "severity": "high",
+      "resolved": true,
+      "reallocationDiff": {
+        "preservedDeliveriesCount": 2,
+        "reallocatedMealsCount": 40,
+        "unrecoverableMealsDelta": 0,
+        "explanation": "40 meals successfully rerouted to Asha Nivas Children Home with zero waste and 50 min safe buffer.",
+        "previousPlanId": "RUN-CBE-PREV",
+        "newPlanId": "RUN-CBE-REV"
+      }
+    }
+  ],
+  "recoveryRecords": [
+    {
+      "id": "REC-1791549546798-MPSN",
+      "donationId": "DON-CBE-104",
+      "donorName": "Kovai Pazhamudir Nilayam Produce",
+      "foodCategory": "Fruits & vegetables",
+      "reasonHumanConsumptionFailed": "Partial allocation: 55 kg unallocated",
+      "recoveryCategory": "Animal Feed",
+      "receivingFacility": "Sunrise Valley Livestock Feed Co-op (Certified Reg #AF-9921)",
+      "quantity": 55,
+      "unit": "kg",
+      "eligibilityVerified": true,
+      "verificationRule": "FDA 21 CFR § 507 Animal Food CGMP & Animal By-Product Standard",
+      "handoverStatus": "Pending Dispatch",
+      "timestamp": "2026-10-09T12:39:06.798Z",
+      "regulatoryComplianceNotes": "Safe for ruminant/swine feed supplement; verified free of prohibited mammalian protein and post-consumer plate waste."
+    },
+    {
+      "id": "REC-1791549546795-5OIZ",
+      "donationId": "DON-CBE-105",
+      "donorName": "Aavin Dairy Chilled Distribution Hub",
+      "foodCategory": "Dairy & chilled",
+      "reasonHumanConsumptionFailed": "No time-feasible recipient with matching category and capacity within safe deadline",
+      "recoveryCategory": "Biogas Digestion",
+      "receivingFacility": "EcoMethane Renewable Bioenergy Anaerobic Digester #3",
+      "quantity": 50,
+      "unit": "portions",
+      "eligibilityVerified": true,
+      "verificationRule": "Renewable Fuel Standard (RFS) EPA Path III Biogas Standard",
+      "handoverStatus": "Pending Dispatch",
+      "timestamp": "2026-10-09T12:39:06.797Z",
+      "regulatoryComplianceNotes": "Suitable feedstock for anaerobic digester conversion into renewable biomethane fuel and digestate fertilizer."
+    },
+    {
+      "id": "REC-1791549546795-YSF3",
+      "donationId": "DON-BLR-205",
+      "donorName": "Meghana Foods Koramangala",
+      "foodCategory": "Rice & prepared dishes",
+      "reasonHumanConsumptionFailed": "No time-feasible recipient with matching category and capacity within safe deadline",
+      "recoveryCategory": "Composting",
+      "receivingFacility": "Metro Circular Soil & Organic Composting Facility (Permit #COMP-441)",
+      "quantity": 95,
+      "unit": "meals",
+      "eligibilityVerified": true,
+      "verificationRule": "EPA 40 CFR Part 503 Biosolids & Commercial Composting Quality Standard",
+      "handoverStatus": "Pending Dispatch",
+      "timestamp": "2026-10-09T12:39:06.795Z",
+      "regulatoryComplianceNotes": "High organic nitrogen/carbon ratio suitable for aerobic thermophilic decomposition."
+    },
+    {
+      "id": "REC-1791549546794-FM04",
+      "donationId": "DON-CHN-202",
+      "donorName": "Murugan Idli Shop",
+      "foodCategory": "Cooked meals",
+      "reasonHumanConsumptionFailed": "No time-feasible recipient with matching category and capacity within safe deadline",
+      "recoveryCategory": "Biogas Digestion",
+      "receivingFacility": "EcoMethane Renewable Bioenergy Anaerobic Digester #3",
+      "quantity": 65,
+      "unit": "meals",
+      "eligibilityVerified": true,
+      "verificationRule": "Renewable Fuel Standard (RFS) EPA Path III Biogas Standard",
+      "handoverStatus": "Pending Dispatch",
+      "timestamp": "2026-10-09T12:39:06.794Z",
+      "regulatoryComplianceNotes": "Suitable feedstock for anaerobic digester conversion into renewable biomethane fuel and digestate fertilizer."
+    },
+    {
+      "id": "REC-1791549546794-Y9QV",
+      "donationId": "DON-CBE-110",
+      "donorName": "Junior Kuppanna Kitchen",
+      "foodCategory": "Rice & prepared dishes",
+      "reasonHumanConsumptionFailed": "No time-feasible recipient with matching category and capacity within safe deadline",
+      "recoveryCategory": "Composting",
+      "receivingFacility": "Metro Circular Soil & Organic Composting Facility (Permit #COMP-441)",
+      "quantity": 85,
+      "unit": "meals",
+      "eligibilityVerified": true,
+      "verificationRule": "EPA 40 CFR Part 503 Biosolids & Commercial Composting Quality Standard",
+      "handoverStatus": "Pending Dispatch",
+      "timestamp": "2026-10-09T12:39:06.794Z",
+      "regulatoryComplianceNotes": "High organic nitrogen/carbon ratio suitable for aerobic thermophilic decomposition."
+    },
+    {
+      "id": "REC-1791549546794-4UZG",
+      "donationId": "DON-CBE-102",
+      "donorName": "The Residency Towers Banquet",
+      "foodCategory": "Rice & prepared dishes",
+      "reasonHumanConsumptionFailed": "Partial allocation: 65 meals unallocated",
+      "recoveryCategory": "Composting",
+      "receivingFacility": "Metro Circular Soil & Organic Composting Facility (Permit #COMP-441)",
+      "quantity": 65,
+      "unit": "meals",
+      "eligibilityVerified": true,
+      "verificationRule": "EPA 40 CFR Part 503 Biosolids & Commercial Composting Quality Standard",
+      "handoverStatus": "Pending Dispatch",
+      "timestamp": "2026-10-09T12:39:06.794Z",
+      "regulatoryComplianceNotes": "High organic nitrogen/carbon ratio suitable for aerobic thermophilic decomposition."
+    },
+    {
+      "id": "REC-1791549546794-SG9R",
+      "donationId": "DON-BLR-204",
+      "donorName": "MTR 1924 Lalbagh",
+      "foodCategory": "Cooked meals",
+      "reasonHumanConsumptionFailed": "No time-feasible recipient with matching category and capacity within safe deadline",
+      "recoveryCategory": "Biogas Digestion",
+      "receivingFacility": "EcoMethane Renewable Bioenergy Anaerobic Digester #3",
+      "quantity": 80,
+      "unit": "meals",
+      "eligibilityVerified": true,
+      "verificationRule": "Renewable Fuel Standard (RFS) EPA Path III Biogas Standard",
+      "handoverStatus": "Pending Dispatch",
+      "timestamp": "2026-10-09T12:39:06.794Z",
+      "regulatoryComplianceNotes": "Suitable feedstock for anaerobic digester conversion into renewable biomethane fuel and digestate fertilizer."
+    },
+    {
+      "id": "REC-1791549546793-OM5G",
+      "donationId": "DON-CHN-203",
+      "donorName": "Saravana Bhavan Banquet",
+      "foodCategory": "Cooked meals",
+      "reasonHumanConsumptionFailed": "No time-feasible recipient with matching category and capacity within safe deadline",
+      "recoveryCategory": "Biogas Digestion",
+      "receivingFacility": "EcoMethane Renewable Bioenergy Anaerobic Digester #3",
+      "quantity": 120,
+      "unit": "meals",
+      "eligibilityVerified": true,
+      "verificationRule": "Renewable Fuel Standard (RFS) EPA Path III Biogas Standard",
+      "handoverStatus": "Pending Dispatch",
+      "timestamp": "2026-10-09T12:39:06.793Z",
+      "regulatoryComplianceNotes": "Suitable feedstock for anaerobic digester conversion into renewable biomethane fuel and digestate fertilizer."
+    },
+    {
+      "id": "REC-1791549546793-VYJQ",
+      "donationId": "DON-TPR-201",
+      "donorName": "Kongu Mess & Catering",
+      "foodCategory": "Cooked meals",
+      "reasonHumanConsumptionFailed": "No time-feasible recipient with matching category and capacity within safe deadline",
+      "recoveryCategory": "Biogas Digestion",
+      "receivingFacility": "EcoMethane Renewable Bioenergy Anaerobic Digester #3",
+      "quantity": 50,
+      "unit": "meals",
+      "eligibilityVerified": true,
+      "verificationRule": "Renewable Fuel Standard (RFS) EPA Path III Biogas Standard",
+      "handoverStatus": "Pending Dispatch",
+      "timestamp": "2026-10-09T12:39:06.793Z",
+      "regulatoryComplianceNotes": "Suitable feedstock for anaerobic digester conversion into renewable biomethane fuel and digestate fertilizer."
+    },
+    {
+      "id": "REC-1791549546793-UHD7",
+      "donationId": "DON-CBE-108",
+      "donorName": "Anandhaas Pure Veg Restaurant",
+      "foodCategory": "Cooked meals",
+      "reasonHumanConsumptionFailed": "No time-feasible recipient with matching category and capacity within safe deadline",
+      "recoveryCategory": "Biogas Digestion",
+      "receivingFacility": "EcoMethane Renewable Bioenergy Anaerobic Digester #3",
+      "quantity": 40,
+      "unit": "meals",
+      "eligibilityVerified": true,
+      "verificationRule": "Renewable Fuel Standard (RFS) EPA Path III Biogas Standard",
+      "handoverStatus": "Pending Dispatch",
+      "timestamp": "2026-10-09T12:39:06.793Z",
+      "regulatoryComplianceNotes": "Suitable feedstock for anaerobic digester conversion into renewable biomethane fuel and digestate fertilizer."
+    },
+    {
+      "id": "REC-CBE-01",
+      "donationId": "DON-CBE-106",
+      "donorName": "Ukkadam Seafood House (Unverified)",
+      "foodCategory": "Cooked meals",
+      "reasonHumanConsumptionFailed": "Unverified temperature chain: blocked by FSSAI Safety Gate from human consumption",
+      "recoveryCategory": "Biogas Digestion",
+      "receivingFacility": "Coimbatore Municipal Bio-methanation Facility (Vellalore Plant)",
+      "quantity": 35,
+      "unit": "meals",
+      "eligibilityVerified": true,
+      "verificationRule": "Ministry of New and Renewable Energy (MNRE) Bioenergy Standards",
+      "handoverStatus": "Dispatched",
+      "timestamp": "2026-10-09T09:42:55.944Z",
+      "regulatoryComplianceNotes": "Converted into renewable electricity and liquid bio-fertilizer with traceable audit manifest #CBE-BIO-108."
+    }
+  ],
+  "currentPlan": {
+    "runId": "RUN-SC-1791549546793",
+    "timestamp": "2026-10-09T12:39:06.793Z",
+    "algorithm": "spoilclock-adaptive",
+    "objectiveWeights": {
+      "foodRescued": 0.4,
+      "demandSatisfied": 0.25,
+      "transportDistance": 0.15,
+      "fairness": 0.2
+    },
+    "assignments": [
+      {
+        "id": "ASG-SC-1791549546759-CJHM",
+        "donationId": "DON-CBE-107",
+        "recipientId": "REC-CBE-202",
+        "vehicleId": "VEH-CBE-301",
+        "donorName": "Sree Annapoorna Gandhipuram",
+        "recipientName": "Universal Peace Foundation Care Home",
+        "foodCategory": "Cooked meals",
+        "allocatedQuantity": 55,
+        "originalSupplyQuantity": 60,
+        "isSplit": true,
+        "splitIndex": 1,
+        "distanceKm": 8.47,
+        "travelTimeMinutes": 19,
+        "estimatedPickupTime": "2026-10-09T12:55:06.758Z",
+        "estimatedArrivalTime": "2026-10-09T13:14:06.758Z",
+        "estimatedCompletionTime": "2026-10-09T13:26:06.758Z",
+        "safeDeadline": "2026-10-09T13:32:55.943Z",
+        "timeMarginMinutes": 6,
+        "isTimeFeasible": true,
+        "explanation": "Universal Peace Foundation Care Home selected: Rescues 55 meals (92% of batch), fulfilling 100% of demand. Safe margin: 6 mins before deadline. Distance: 8.47 km. [Part of split donation: 55/60 meals]",
+        "bindingConstraints": [
+          "Multi-Objective Optimality",
+          "Rescue Window Margin",
+          "Capacity Constraint"
+        ],
+        "status": "Scheduled",
+        "createdAt": "2026-10-09T12:39:06.759Z",
+        "totalSplits": 2
+      },
+      {
+        "id": "ASG-SC-1791549546760-N0ES",
+        "donationId": "DON-CBE-107",
+        "recipientId": "REC-CBE-203",
+        "vehicleId": "VEH-CBE-301",
+        "donorName": "Sree Annapoorna Gandhipuram",
+        "recipientName": "Anbagam Destitute & Senior Care Shelter",
+        "foodCategory": "Cooked meals",
+        "allocatedQuantity": 5,
+        "originalSupplyQuantity": 60,
+        "isSplit": true,
+        "splitIndex": 2,
+        "distanceKm": 10.34,
+        "travelTimeMinutes": 23,
+        "estimatedPickupTime": "2026-10-09T12:55:06.758Z",
+        "estimatedArrivalTime": "2026-10-09T13:18:06.758Z",
+        "estimatedCompletionTime": "2026-10-09T13:30:06.758Z",
+        "safeDeadline": "2026-10-09T13:32:55.943Z",
+        "timeMarginMinutes": 2,
+        "isTimeFeasible": true,
+        "explanation": "Anbagam Destitute & Senior Care Shelter selected: Rescues 5 meals (8% of batch), fulfilling 13% of demand. Safe margin: 2 mins before deadline. Distance: 10.34 km. [Part of split donation: 5/60 meals]",
+        "bindingConstraints": [
+          "Multi-Objective Optimality",
+          "Rescue Window Margin",
+          "Capacity Constraint"
+        ],
+        "status": "Scheduled",
+        "createdAt": "2026-10-09T12:39:06.760Z",
+        "totalSplits": 2
+      },
+      {
+        "id": "ASG-SC-1791549546761-NKM0",
+        "donationId": "DON-CBE-109",
+        "recipientId": "REC-CBE-204",
+        "vehicleId": "VEH-CBE-301",
+        "donorName": "Arya Bhavan Traditional Kitchen",
+        "recipientName": "Asha Nivas Children Home & Food Bank",
+        "foodCategory": "Cooked meals",
+        "allocatedQuantity": 70,
+        "originalSupplyQuantity": 70,
+        "isSplit": false,
+        "splitIndex": 1,
+        "distanceKm": 5.56,
+        "travelTimeMinutes": 12,
+        "estimatedPickupTime": "2026-10-09T12:54:06.758Z",
+        "estimatedArrivalTime": "2026-10-09T13:06:06.758Z",
+        "estimatedCompletionTime": "2026-10-09T13:18:06.758Z",
+        "safeDeadline": "2026-10-09T13:32:55.943Z",
+        "timeMarginMinutes": 14,
+        "isTimeFeasible": true,
+        "explanation": "Asha Nivas Children Home & Food Bank selected: Rescues 70 meals (100% of batch), fulfilling 61% of demand. Safe margin: 14 mins before deadline. Distance: 5.56 km.",
+        "bindingConstraints": [
+          "Multi-Objective Optimality",
+          "Rescue Window Margin",
+          "Capacity Constraint"
+        ],
+        "status": "Scheduled",
+        "createdAt": "2026-10-09T12:39:06.761Z",
+        "totalSplits": 1
+      },
+      {
+        "id": "ASG-SC-1791549546765-8UUY",
+        "donationId": "DON-CBE-101",
+        "recipientId": "REC-CBE-201",
+        "vehicleId": "VEH-CBE-302",
+        "donorName": "Annapoorna Gowrishankar Sweets & Restaurant",
+        "recipientName": "No Food Waste Community Kitchen",
+        "foodCategory": "Cooked meals",
+        "allocatedQuantity": 80,
+        "originalSupplyQuantity": 90,
+        "isSplit": true,
+        "splitIndex": 1,
+        "distanceKm": 1.29,
+        "travelTimeMinutes": 4,
+        "estimatedPickupTime": "2026-10-09T12:56:06.758Z",
+        "estimatedArrivalTime": "2026-10-09T13:00:06.758Z",
+        "estimatedCompletionTime": "2026-10-09T13:12:06.758Z",
+        "safeDeadline": "2026-10-09T13:47:55.943Z",
+        "timeMarginMinutes": 35,
+        "isTimeFeasible": true,
+        "explanation": "No Food Waste Community Kitchen selected: Rescues 80 meals (89% of batch), fulfilling 100% of demand. Safe margin: 35 mins before deadline. Distance: 1.29 km. [Part of split donation: 80/90 meals]",
+        "bindingConstraints": [
+          "Multi-Objective Optimality",
+          "Rescue Window Margin",
+          "Capacity Constraint"
+        ],
+        "status": "Scheduled",
+        "createdAt": "2026-10-09T12:39:06.765Z",
+        "totalSplits": 2
+      },
+      {
+        "id": "ASG-SC-1791549546767-VN3C",
+        "donationId": "DON-CBE-101",
+        "recipientId": "REC-CBE-203",
+        "vehicleId": "VEH-CBE-301",
+        "donorName": "Annapoorna Gowrishankar Sweets & Restaurant",
+        "recipientName": "Anbagam Destitute & Senior Care Shelter",
+        "foodCategory": "Cooked meals",
+        "allocatedQuantity": 10,
+        "originalSupplyQuantity": 90,
+        "isSplit": true,
+        "splitIndex": 2,
+        "distanceKm": 13.72,
+        "travelTimeMinutes": 30,
+        "estimatedPickupTime": "2026-10-09T12:57:06.758Z",
+        "estimatedArrivalTime": "2026-10-09T13:27:06.758Z",
+        "estimatedCompletionTime": "2026-10-09T13:39:06.758Z",
+        "safeDeadline": "2026-10-09T13:47:55.943Z",
+        "timeMarginMinutes": 8,
+        "isTimeFeasible": true,
+        "explanation": "Anbagam Destitute & Senior Care Shelter selected: Rescues 10 meals (11% of batch), fulfilling 25% of demand. Safe margin: 8 mins before deadline. Distance: 13.72 km. [Part of split donation: 10/90 meals]",
+        "bindingConstraints": [
+          "Multi-Objective Optimality",
+          "Rescue Window Margin",
+          "Capacity Constraint"
+        ],
+        "status": "Scheduled",
+        "createdAt": "2026-10-09T12:39:06.767Z",
+        "totalSplits": 2
+      },
+      {
+        "id": "ASG-SC-1791549546775-AWZZ",
+        "donationId": "DON-CBE-102",
+        "recipientId": "REC-CBE-204",
+        "vehicleId": "VEH-CBE-303",
+        "donorName": "The Residency Towers Banquet",
+        "recipientName": "Asha Nivas Children Home & Food Bank",
+        "foodCategory": "Rice & prepared dishes",
+        "allocatedQuantity": 45,
+        "originalSupplyQuantity": 110,
+        "isSplit": false,
+        "splitIndex": 1,
+        "distanceKm": 2,
+        "travelTimeMinutes": 5,
+        "estimatedPickupTime": "2026-10-09T12:56:06.758Z",
+        "estimatedArrivalTime": "2026-10-09T13:01:06.758Z",
+        "estimatedCompletionTime": "2026-10-09T13:13:06.758Z",
+        "safeDeadline": "2026-10-09T14:02:55.943Z",
+        "timeMarginMinutes": 49,
+        "isTimeFeasible": true,
+        "explanation": "Asha Nivas Children Home & Food Bank selected: Rescues 45 meals (41% of batch), fulfilling 39% of demand. Safe margin: 49 mins before deadline. Distance: 2 km.",
+        "bindingConstraints": [
+          "Multi-Objective Optimality",
+          "Rescue Window Margin",
+          "Capacity Constraint"
+        ],
+        "status": "Scheduled",
+        "createdAt": "2026-10-09T12:39:06.775Z",
+        "totalSplits": 1
+      },
+      {
+        "id": "ASG-SC-1791549546792-1NWD",
+        "donationId": "DON-CBE-103",
+        "recipientId": "REC-TPR-301",
+        "vehicleId": "VEH-CBE-301",
+        "donorName": "Sri Krishna Sweets & Bakery",
+        "recipientName": "Tiruppur Karunai Community Feeding Centre",
+        "foodCategory": "Bakery products",
+        "allocatedQuantity": 45,
+        "originalSupplyQuantity": 45,
+        "isSplit": false,
+        "splitIndex": 1,
+        "distanceKm": 56.52,
+        "travelTimeMinutes": 122,
+        "estimatedPickupTime": "2026-10-09T12:55:06.758Z",
+        "estimatedArrivalTime": "2026-10-09T14:57:06.758Z",
+        "estimatedCompletionTime": "2026-10-09T15:09:06.758Z",
+        "safeDeadline": "2026-10-10T06:32:55.943Z",
+        "timeMarginMinutes": 923,
+        "isTimeFeasible": true,
+        "explanation": "Tiruppur Karunai Community Feeding Centre selected: Rescues 45 meals (100% of batch), fulfilling 90% of demand. Safe margin: 923 mins before deadline. Distance: 56.52 km.",
+        "bindingConstraints": [
+          "Multi-Objective Optimality",
+          "Rescue Window Margin",
+          "Capacity Constraint"
+        ],
+        "status": "Scheduled",
+        "createdAt": "2026-10-09T12:39:06.792Z",
+        "totalSplits": 1
+      },
+      {
+        "id": "ASG-SC-1791549546793-6O3N",
+        "donationId": "DON-CBE-104",
+        "recipientId": "REC-CBE-203",
+        "vehicleId": "VEH-CBE-303",
+        "donorName": "Kovai Pazhamudir Nilayam Produce",
+        "recipientName": "Anbagam Destitute & Senior Care Shelter",
+        "foodCategory": "Fruits & vegetables",
+        "allocatedQuantity": 25,
+        "originalSupplyQuantity": 80,
+        "isSplit": false,
+        "splitIndex": 1,
+        "distanceKm": 8.09,
+        "travelTimeMinutes": 20,
+        "estimatedPickupTime": "2026-10-09T13:00:06.758Z",
+        "estimatedArrivalTime": "2026-10-09T13:20:06.758Z",
+        "estimatedCompletionTime": "2026-10-09T13:32:06.758Z",
+        "safeDeadline": "2026-10-11T02:32:55.943Z",
+        "timeMarginMinutes": 2220,
+        "isTimeFeasible": true,
+        "explanation": "Anbagam Destitute & Senior Care Shelter selected: Rescues 25 kg (31% of batch), fulfilling 63% of demand. Safe margin: 2220 mins before deadline. Distance: 8.09 km.",
+        "bindingConstraints": [
+          "Multi-Objective Optimality",
+          "Rescue Window Margin",
+          "Capacity Constraint"
+        ],
+        "status": "Scheduled",
+        "createdAt": "2026-10-09T12:39:06.793Z",
+        "totalSplits": 1
+      }
+    ],
+    "unallocated": [
+      {
+        "donationId": "DON-CBE-106",
+        "donorName": "Ukkadam Seafood & Curry House (Unverified)",
+        "category": "Cooked meals",
+        "remainingQuantity": 35,
+        "reason": "Safety verification missing: Batch blocked from human redistribution",
+        "candidateRecoveryRoute": "Biogas Digestion"
+      },
+      {
+        "donationId": "DON-CBE-108",
+        "donorName": "Anandhaas Pure Veg Restaurant",
+        "category": "Cooked meals",
+        "remainingQuantity": 40,
+        "reason": "No time-feasible recipient with matching category and capacity within safe deadline",
+        "candidateRecoveryRoute": "Biogas Digestion"
+      },
+      {
+        "donationId": "DON-TPR-201",
+        "donorName": "Kongu Mess & Catering",
+        "category": "Cooked meals",
+        "remainingQuantity": 50,
+        "reason": "No time-feasible recipient with matching category and capacity within safe deadline",
+        "candidateRecoveryRoute": "Biogas Digestion"
+      },
+      {
+        "donationId": "DON-CHN-203",
+        "donorName": "Saravana Bhavan Banquet",
+        "category": "Cooked meals",
+        "remainingQuantity": 120,
+        "reason": "No time-feasible recipient with matching category and capacity within safe deadline",
+        "candidateRecoveryRoute": "Biogas Digestion"
+      },
+      {
+        "donationId": "DON-BLR-204",
+        "donorName": "MTR 1924 Lalbagh",
+        "category": "Cooked meals",
+        "remainingQuantity": 80,
+        "reason": "No time-feasible recipient with matching category and capacity within safe deadline",
+        "candidateRecoveryRoute": "Biogas Digestion"
+      },
+      {
+        "donationId": "DON-CBE-102",
+        "donorName": "The Residency Towers Banquet",
+        "category": "Rice & prepared dishes",
+        "remainingQuantity": 65,
+        "reason": "Partial allocation: 65 meals unallocated",
+        "candidateRecoveryRoute": "Composting"
+      },
+      {
+        "donationId": "DON-CBE-110",
+        "donorName": "Junior Kuppanna Kitchen",
+        "category": "Rice & prepared dishes",
+        "remainingQuantity": 85,
+        "reason": "No time-feasible recipient with matching category and capacity within safe deadline",
+        "candidateRecoveryRoute": "Composting"
+      },
+      {
+        "donationId": "DON-CHN-202",
+        "donorName": "Murugan Idli Shop",
+        "category": "Cooked meals",
+        "remainingQuantity": 65,
+        "reason": "No time-feasible recipient with matching category and capacity within safe deadline",
+        "candidateRecoveryRoute": "Biogas Digestion"
+      },
+      {
+        "donationId": "DON-BLR-205",
+        "donorName": "Meghana Foods Koramangala",
+        "category": "Rice & prepared dishes",
+        "remainingQuantity": 95,
+        "reason": "No time-feasible recipient with matching category and capacity within safe deadline",
+        "candidateRecoveryRoute": "Composting"
+      },
+      {
+        "donationId": "DON-CBE-105",
+        "donorName": "Aavin Dairy Chilled Distribution Hub",
+        "category": "Dairy & chilled",
+        "remainingQuantity": 50,
+        "reason": "No time-feasible recipient with matching category and capacity within safe deadline",
+        "candidateRecoveryRoute": "Biogas Digestion"
+      },
+      {
+        "donationId": "DON-CBE-104",
+        "donorName": "Kovai Pazhamudir Nilayam Produce",
+        "category": "Fruits & vegetables",
+        "remainingQuantity": 55,
+        "reason": "Partial allocation: 55 kg unallocated",
+        "candidateRecoveryRoute": "Animal Feed"
+      }
+    ],
+    "rejectedCandidates": [
+      {
+        "donationId": "DON-CBE-108",
+        "recipientId": "REC-CBE-201",
+        "recipientName": "No Food Waste Community Kitchen",
+        "reason": "Rescue window exceeded: Estimated completion time (6:47:06 PM) passes verified safe deadline (6:32:55 PM) by 15 minutes.",
+        "bindingConstraint": "Safety/Deadline"
+      },
+      {
+        "donationId": "DON-CBE-108",
+        "recipientId": "REC-CBE-202",
+        "recipientName": "Universal Peace Foundation Care Home",
+        "reason": "Rescue window exceeded: Estimated completion time (6:59:06 PM) passes verified safe deadline (6:32:55 PM) by 27 minutes.",
+        "bindingConstraint": "Safety/Deadline"
+      },
+      {
+        "donationId": "DON-CBE-108",
+        "recipientId": "REC-CBE-203",
+        "recipientName": "Anbagam Destitute & Senior Care Shelter",
+        "reason": "Rescue window exceeded: Estimated completion time (7:15:06 PM) passes verified safe deadline (6:32:55 PM) by 43 minutes.",
+        "bindingConstraint": "Safety/Deadline"
+      },
+      {
+        "donationId": "DON-CBE-108",
+        "recipientId": "REC-CBE-204",
+        "recipientName": "Asha Nivas Children Home & Food Bank",
+        "reason": "Rescue window exceeded: Estimated completion time (6:46:06 PM) passes verified safe deadline (6:32:55 PM) by 14 minutes.",
+        "bindingConstraint": "Safety/Deadline"
+      },
+      {
+        "donationId": "DON-CBE-108",
+        "recipientId": "REC-CBE-205",
+        "recipientName": "Helping Hearts Community Feeding Outreach",
+        "reason": "Rescue window exceeded: Estimated completion time (6:44:06 PM) passes verified safe deadline (6:32:55 PM) by 12 minutes.; Delivery arrival (06:32 PM) falls outside operating hours (11:00 - 18:30).",
+        "bindingConstraint": "Operating Hours Closed"
+      },
+      {
+        "donationId": "DON-CBE-108",
+        "recipientId": "REC-TPR-301",
+        "recipientName": "Tiruppur Karunai Community Feeding Centre",
+        "reason": "Rescue window exceeded: Estimated completion time (9:21:06 PM) passes verified safe deadline (6:32:55 PM) by 169 minutes.; Delivery arrival (09:09 PM) falls outside operating hours (08:30 - 20:30).",
+        "bindingConstraint": "Operating Hours Closed"
+      },
+      {
+        "donationId": "DON-CBE-108",
+        "recipientId": "REC-CHN-302",
+        "recipientName": "Akshaya Patra Chennai Kitchen Hub",
+        "reason": "Rescue window exceeded: Estimated completion time (9:20:06 PM) passes verified safe deadline (6:32:55 PM) by 1608 minutes.; Delivery arrival (09:08 PM) falls outside operating hours (07:30 - 21:00).",
+        "bindingConstraint": "Operating Hours Closed"
+      },
+      {
+        "donationId": "DON-CBE-108",
+        "recipientId": "REC-BLR-303",
+        "recipientName": "Robin Hood Army Bengaluru Food Shelter",
+        "reason": "Rescue window exceeded: Estimated completion time (9:00:06 AM) passes verified safe deadline (6:32:55 PM) by 868 minutes.",
+        "bindingConstraint": "Safety/Deadline"
+      },
+      {
+        "donationId": "DON-CBE-107",
+        "recipientId": "REC-CBE-205",
+        "recipientName": "Helping Hearts Community Feeding Outreach",
+        "reason": "Delivery arrival (06:32 PM) falls outside operating hours (11:00 - 18:30).",
+        "bindingConstraint": "Operating Hours Closed"
+      },
+      {
+        "donationId": "DON-CBE-107",
+        "recipientId": "REC-TPR-301",
+        "recipientName": "Tiruppur Karunai Community Feeding Centre",
+        "reason": "Rescue window exceeded: Estimated completion time (8:40:06 PM) passes verified safe deadline (7:02:55 PM) by 98 minutes.",
+        "bindingConstraint": "Safety/Deadline"
+      },
+      {
+        "donationId": "DON-CBE-107",
+        "recipientId": "REC-CHN-302",
+        "recipientName": "Akshaya Patra Chennai Kitchen Hub",
+        "reason": "Rescue window exceeded: Estimated completion time (2:37:06 PM) passes verified safe deadline (7:02:55 PM) by 1175 minutes.",
+        "bindingConstraint": "Safety/Deadline"
+      },
+      {
+        "donationId": "DON-CBE-107",
+        "recipientId": "REC-BLR-303",
+        "recipientName": "Robin Hood Army Bengaluru Food Shelter",
+        "reason": "Rescue window exceeded: Estimated completion time (5:19:06 AM) passes verified safe deadline (7:02:55 PM) by 617 minutes.; Delivery arrival (05:07 AM) falls outside operating hours (08:00 - 21:30).",
+        "bindingConstraint": "Operating Hours Closed"
+      },
+      {
+        "donationId": "DON-CBE-107",
+        "recipientId": "REC-CBE-205",
+        "recipientName": "Helping Hearts Community Feeding Outreach",
+        "reason": "Delivery arrival (06:32 PM) falls outside operating hours (11:00 - 18:30).",
+        "bindingConstraint": "Operating Hours Closed"
+      },
+      {
+        "donationId": "DON-CBE-107",
+        "recipientId": "REC-TPR-301",
+        "recipientName": "Tiruppur Karunai Community Feeding Centre",
+        "reason": "Rescue window exceeded: Estimated completion time (8:40:06 PM) passes verified safe deadline (7:02:55 PM) by 98 minutes.",
+        "bindingConstraint": "Safety/Deadline"
+      },
+      {
+        "donationId": "DON-CBE-107",
+        "recipientId": "REC-CHN-302",
+        "recipientName": "Akshaya Patra Chennai Kitchen Hub",
+        "reason": "Rescue window exceeded: Estimated completion time (2:37:06 PM) passes verified safe deadline (7:02:55 PM) by 1175 minutes.",
+        "bindingConstraint": "Safety/Deadline"
+      },
+      {
+        "donationId": "DON-CBE-107",
+        "recipientId": "REC-BLR-303",
+        "recipientName": "Robin Hood Army Bengaluru Food Shelter",
+        "reason": "Rescue window exceeded: Estimated completion time (5:19:06 AM) passes verified safe deadline (7:02:55 PM) by 617 minutes.; Delivery arrival (05:07 AM) falls outside operating hours (08:00 - 21:30).",
+        "bindingConstraint": "Operating Hours Closed"
+      },
+      {
+        "donationId": "DON-CBE-109",
+        "recipientId": "REC-CBE-203",
+        "recipientName": "Anbagam Destitute & Senior Care Shelter",
+        "reason": "Rescue window exceeded: Estimated completion time (7:03:06 PM) passes verified safe deadline (7:02:55 PM) by 1 minutes.",
+        "bindingConstraint": "Safety/Deadline"
+      },
+      {
+        "donationId": "DON-CBE-109",
+        "recipientId": "REC-TPR-301",
+        "recipientName": "Tiruppur Karunai Community Feeding Centre",
+        "reason": "Rescue window exceeded: Estimated completion time (8:44:06 PM) passes verified safe deadline (7:02:55 PM) by 102 minutes.; Delivery arrival (08:32 PM) falls outside operating hours (08:30 - 20:30).",
+        "bindingConstraint": "Operating Hours Closed"
+      },
+      {
+        "donationId": "DON-CBE-109",
+        "recipientId": "REC-CHN-302",
+        "recipientName": "Akshaya Patra Chennai Kitchen Hub",
+        "reason": "Rescue window exceeded: Estimated completion time (2:41:06 PM) passes verified safe deadline (7:02:55 PM) by 1179 minutes.",
+        "bindingConstraint": "Safety/Deadline"
+      },
+      {
+        "donationId": "DON-CBE-109",
+        "recipientId": "REC-BLR-303",
+        "recipientName": "Robin Hood Army Bengaluru Food Shelter",
+        "reason": "Rescue window exceeded: Estimated completion time (5:22:06 AM) passes verified safe deadline (7:02:55 PM) by 620 minutes.; Delivery arrival (05:10 AM) falls outside operating hours (08:00 - 21:30).",
+        "bindingConstraint": "Operating Hours Closed"
+      },
+      {
+        "donationId": "DON-TPR-201",
+        "recipientId": "REC-CBE-201",
+        "recipientName": "No Food Waste Community Kitchen",
+        "reason": "Rescue window exceeded: Estimated completion time (11:08:06 PM) passes verified safe deadline (7:02:55 PM) by 246 minutes.; Delivery arrival (10:56 PM) falls outside operating hours (08:00 - 21:30).",
+        "bindingConstraint": "Operating Hours Closed"
+      },
+      {
+        "donationId": "DON-TPR-201",
+        "recipientId": "REC-CBE-203",
+        "recipientName": "Anbagam Destitute & Senior Care Shelter",
+        "reason": "Rescue window exceeded: Estimated completion time (10:49:06 PM) passes verified safe deadline (7:02:55 PM) by 227 minutes.; Delivery arrival (10:37 PM) falls outside operating hours (10:00 - 19:30).",
+        "bindingConstraint": "Operating Hours Closed"
+      },
+      {
+        "donationId": "DON-TPR-201",
+        "recipientId": "REC-CBE-204",
+        "recipientName": "Asha Nivas Children Home & Food Bank",
+        "reason": "Rescue window exceeded: Estimated completion time (10:56:06 PM) passes verified safe deadline (7:02:55 PM) by 234 minutes.; Delivery arrival (10:44 PM) falls outside operating hours (08:00 - 22:00).",
+        "bindingConstraint": "Operating Hours Closed"
+      },
+      {
+        "donationId": "DON-TPR-201",
+        "recipientId": "REC-CBE-205",
+        "recipientName": "Helping Hearts Community Feeding Outreach",
+        "reason": "Rescue window exceeded: Estimated completion time (11:06:06 PM) passes verified safe deadline (7:02:55 PM) by 244 minutes.; Delivery arrival (10:54 PM) falls outside operating hours (11:00 - 18:30).",
+        "bindingConstraint": "Operating Hours Closed"
+      },
+      {
+        "donationId": "DON-TPR-201",
+        "recipientId": "REC-TPR-301",
+        "recipientName": "Tiruppur Karunai Community Feeding Centre",
+        "reason": "Rescue window exceeded: Estimated completion time (8:48:06 PM) passes verified safe deadline (7:02:55 PM) by 106 minutes.; Delivery arrival (08:36 PM) falls outside operating hours (08:30 - 20:30).",
+        "bindingConstraint": "Operating Hours Closed"
+      },
+      {
+        "donationId": "DON-TPR-201",
+        "recipientId": "REC-CHN-302",
+        "recipientName": "Akshaya Patra Chennai Kitchen Hub",
+        "reason": "Rescue window exceeded: Estimated completion time (5:27:06 PM) passes verified safe deadline (7:02:55 PM) by 1345 minutes.",
+        "bindingConstraint": "Safety/Deadline"
+      },
+      {
+        "donationId": "DON-TPR-201",
+        "recipientId": "REC-BLR-303",
+        "recipientName": "Robin Hood Army Bengaluru Food Shelter",
+        "reason": "Rescue window exceeded: Estimated completion time (7:55:06 AM) passes verified safe deadline (7:02:55 PM) by 773 minutes.; Delivery arrival (07:43 AM) falls outside operating hours (08:00 - 21:30).",
+        "bindingConstraint": "Operating Hours Closed"
+      },
+      {
+        "donationId": "DON-CHN-203",
+        "recipientId": "REC-CBE-201",
+        "recipientName": "No Food Waste Community Kitchen",
+        "reason": "Rescue window exceeded: Estimated completion time (4:30:06 PM) passes verified safe deadline (7:02:55 PM) by 2728 minutes.",
+        "bindingConstraint": "Safety/Deadline"
+      },
+      {
+        "donationId": "DON-CHN-203",
+        "recipientId": "REC-CBE-203",
+        "recipientName": "Anbagam Destitute & Senior Care Shelter",
+        "reason": "Rescue window exceeded: Estimated completion time (4:01:06 PM) passes verified safe deadline (7:02:55 PM) by 2699 minutes.",
+        "bindingConstraint": "Safety/Deadline"
+      },
+      {
+        "donationId": "DON-CHN-203",
+        "recipientId": "REC-CBE-204",
+        "recipientName": "Asha Nivas Children Home & Food Bank",
+        "reason": "Rescue window exceeded: Estimated completion time (4:18:06 PM) passes verified safe deadline (7:02:55 PM) by 2716 minutes.",
+        "bindingConstraint": "Safety/Deadline"
+      },
+      {
+        "donationId": "DON-CHN-203",
+        "recipientId": "REC-CBE-205",
+        "recipientName": "Helping Hearts Community Feeding Outreach",
+        "reason": "Rescue window exceeded: Estimated completion time (4:27:06 PM) passes verified safe deadline (7:02:55 PM) by 2725 minutes.",
+        "bindingConstraint": "Safety/Deadline"
+      },
+      {
+        "donationId": "DON-CHN-203",
+        "recipientId": "REC-TPR-301",
+        "recipientName": "Tiruppur Karunai Community Feeding Centre",
+        "reason": "Rescue window exceeded: Estimated completion time (2:10:06 PM) passes verified safe deadline (7:02:55 PM) by 2588 minutes.",
+        "bindingConstraint": "Safety/Deadline"
+      },
+      {
+        "donationId": "DON-CHN-203",
+        "recipientId": "REC-CHN-302",
+        "recipientName": "Akshaya Patra Chennai Kitchen Hub",
+        "reason": "Rescue window exceeded: Estimated completion time (5:36:06 PM) passes verified safe deadline (7:02:55 PM) by 1354 minutes.",
+        "bindingConstraint": "Safety/Deadline"
+      },
+      {
+        "donationId": "DON-CHN-203",
+        "recipientId": "REC-BLR-303",
+        "recipientName": "Robin Hood Army Bengaluru Food Shelter",
+        "reason": "Rescue window exceeded: Estimated completion time (8:59:06 AM) passes verified safe deadline (7:02:55 PM) by 2277 minutes.",
+        "bindingConstraint": "Safety/Deadline"
+      },
+      {
+        "donationId": "DON-CBE-101",
+        "recipientId": "REC-CBE-203",
+        "recipientName": "Anbagam Destitute & Senior Care Shelter",
+        "reason": "Rescue window exceeded: Estimated completion time (7:18:06 PM) passes verified safe deadline (7:17:55 PM) by 1 minutes.",
+        "bindingConstraint": "Safety/Deadline"
+      },
+      {
+        "donationId": "DON-CBE-101",
+        "recipientId": "REC-CBE-205",
+        "recipientName": "Helping Hearts Community Feeding Outreach",
+        "reason": "Delivery arrival (06:31 PM) falls outside operating hours (11:00 - 18:30).",
+        "bindingConstraint": "Operating Hours Closed"
+      },
+      {
+        "donationId": "DON-CBE-101",
+        "recipientId": "REC-TPR-301",
+        "recipientName": "Tiruppur Karunai Community Feeding Centre",
+        "reason": "Rescue window exceeded: Estimated completion time (9:29:06 PM) passes verified safe deadline (7:17:55 PM) by 132 minutes.; Delivery arrival (09:17 PM) falls outside operating hours (08:30 - 20:30).",
+        "bindingConstraint": "Operating Hours Closed"
+      },
+      {
+        "donationId": "DON-CBE-101",
+        "recipientId": "REC-CHN-302",
+        "recipientName": "Akshaya Patra Chennai Kitchen Hub",
+        "reason": "Rescue window exceeded: Estimated completion time (9:27:06 PM) passes verified safe deadline (7:17:55 PM) by 1570 minutes.; Delivery arrival (09:15 PM) falls outside operating hours (07:30 - 21:00).",
+        "bindingConstraint": "Operating Hours Closed"
+      },
+      {
+        "donationId": "DON-CBE-101",
+        "recipientId": "REC-BLR-303",
+        "recipientName": "Robin Hood Army Bengaluru Food Shelter",
+        "reason": "Rescue window exceeded: Estimated completion time (9:03:06 AM) passes verified safe deadline (7:17:55 PM) by 826 minutes.",
+        "bindingConstraint": "Safety/Deadline"
+      },
+      {
+        "donationId": "DON-CBE-101",
+        "recipientId": "REC-CBE-205",
+        "recipientName": "Helping Hearts Community Feeding Outreach",
+        "reason": "Delivery arrival (06:31 PM) falls outside operating hours (11:00 - 18:30).",
+        "bindingConstraint": "Operating Hours Closed"
+      },
+      {
+        "donationId": "DON-CBE-101",
+        "recipientId": "REC-TPR-301",
+        "recipientName": "Tiruppur Karunai Community Feeding Centre",
+        "reason": "Rescue window exceeded: Estimated completion time (8:47:06 PM) passes verified safe deadline (7:17:55 PM) by 90 minutes.; Delivery arrival (08:35 PM) falls outside operating hours (08:30 - 20:30).",
+        "bindingConstraint": "Operating Hours Closed"
+      },
+      {
+        "donationId": "DON-CBE-101",
+        "recipientId": "REC-CHN-302",
+        "recipientName": "Akshaya Patra Chennai Kitchen Hub",
+        "reason": "Rescue window exceeded: Estimated completion time (2:46:06 PM) passes verified safe deadline (7:17:55 PM) by 1169 minutes.",
+        "bindingConstraint": "Safety/Deadline"
+      },
+      {
+        "donationId": "DON-CBE-101",
+        "recipientId": "REC-BLR-303",
+        "recipientName": "Robin Hood Army Bengaluru Food Shelter",
+        "reason": "Rescue window exceeded: Estimated completion time (5:28:06 AM) passes verified safe deadline (7:17:55 PM) by 611 minutes.; Delivery arrival (05:16 AM) falls outside operating hours (08:00 - 21:30).",
+        "bindingConstraint": "Operating Hours Closed"
+      },
+      {
+        "donationId": "DON-BLR-204",
+        "recipientId": "REC-CBE-203",
+        "recipientName": "Anbagam Destitute & Senior Care Shelter",
+        "reason": "Rescue window exceeded: Estimated completion time (6:33:06 PM) passes verified safe deadline (7:17:55 PM) by 1396 minutes.",
+        "bindingConstraint": "Safety/Deadline"
+      },
+      {
+        "donationId": "DON-BLR-204",
+        "recipientId": "REC-CBE-204",
+        "recipientName": "Asha Nivas Children Home & Food Bank",
+        "reason": "Rescue window exceeded: Estimated completion time (7:02:06 PM) passes verified safe deadline (7:17:55 PM) by 1425 minutes.",
+        "bindingConstraint": "Safety/Deadline"
+      },
+      {
+        "donationId": "DON-BLR-204",
+        "recipientId": "REC-CBE-205",
+        "recipientName": "Helping Hearts Community Feeding Outreach",
+        "reason": "Rescue window exceeded: Estimated completion time (7:07:06 PM) passes verified safe deadline (7:17:55 PM) by 1430 minutes.; Delivery arrival (06:55 PM) falls outside operating hours (11:00 - 18:30).",
+        "bindingConstraint": "Operating Hours Closed"
+      },
+      {
+        "donationId": "DON-BLR-204",
+        "recipientId": "REC-TPR-301",
+        "recipientName": "Tiruppur Karunai Community Feeding Centre",
+        "reason": "Rescue window exceeded: Estimated completion time (5:57:06 PM) passes verified safe deadline (7:17:55 PM) by 1360 minutes.",
+        "bindingConstraint": "Safety/Deadline"
+      },
+      {
+        "donationId": "DON-BLR-204",
+        "recipientId": "REC-CHN-302",
+        "recipientName": "Akshaya Patra Chennai Kitchen Hub",
+        "reason": "Rescue window exceeded: Estimated completion time (10:21:06 PM) passes verified safe deadline (7:17:55 PM) by 1624 minutes.; Delivery arrival (10:09 PM) falls outside operating hours (07:30 - 21:00).",
+        "bindingConstraint": "Operating Hours Closed"
+      },
+      {
+        "donationId": "DON-BLR-204",
+        "recipientId": "REC-BLR-303",
+        "recipientName": "Robin Hood Army Bengaluru Food Shelter",
+        "reason": "Rescue window exceeded: Estimated completion time (6:58:06 AM) passes verified safe deadline (7:17:55 PM) by 701 minutes.; Delivery arrival (06:46 AM) falls outside operating hours (08:00 - 21:30).",
+        "bindingConstraint": "Operating Hours Closed"
+      },
+      {
+        "donationId": "DON-CBE-102",
+        "recipientId": "REC-CBE-203",
+        "recipientName": "Anbagam Destitute & Senior Care Shelter",
+        "reason": "Recipient \"Anbagam Destitute & Senior Care Shelter\" does not accept category \"Rice & prepared dishes\". Accepted: [Cooked meals, Bakery products, Fruits & vegetables, Packaged food].",
+        "bindingConstraint": "Category Incompatible"
+      },
+      {
+        "donationId": "DON-CBE-102",
+        "recipientId": "REC-CBE-205",
+        "recipientName": "Helping Hearts Community Feeding Outreach",
+        "reason": "Delivery arrival (06:35 PM) falls outside operating hours (11:00 - 18:30).",
+        "bindingConstraint": "Operating Hours Closed"
+      },
+      {
+        "donationId": "DON-CBE-102",
+        "recipientId": "REC-TPR-301",
+        "recipientName": "Tiruppur Karunai Community Feeding Centre",
+        "reason": "Rescue window exceeded: Estimated completion time (8:53:06 PM) passes verified safe deadline (7:32:55 PM) by 81 minutes.; Delivery arrival (08:41 PM) falls outside operating hours (08:30 - 20:30).",
+        "bindingConstraint": "Operating Hours Closed"
+      },
+      {
+        "donationId": "DON-CBE-102",
+        "recipientId": "REC-CHN-302",
+        "recipientName": "Akshaya Patra Chennai Kitchen Hub",
+        "reason": "Rescue window exceeded: Estimated completion time (5:26:06 PM) passes verified safe deadline (7:32:55 PM) by 1314 minutes.",
+        "bindingConstraint": "Safety/Deadline"
+      },
+      {
+        "donationId": "DON-CBE-102",
+        "recipientId": "REC-BLR-303",
+        "recipientName": "Robin Hood Army Bengaluru Food Shelter",
+        "reason": "Rescue window exceeded: Estimated completion time (6:51:06 AM) passes verified safe deadline (7:32:55 PM) by 679 minutes.; Delivery arrival (06:39 AM) falls outside operating hours (08:00 - 21:30).",
+        "bindingConstraint": "Operating Hours Closed"
+      },
+      {
+        "donationId": "DON-CBE-102",
+        "recipientId": "REC-CBE-203",
+        "recipientName": "Anbagam Destitute & Senior Care Shelter",
+        "reason": "Recipient \"Anbagam Destitute & Senior Care Shelter\" does not accept category \"Rice & prepared dishes\". Accepted: [Cooked meals, Bakery products, Fruits & vegetables, Packaged food].",
+        "bindingConstraint": "Category Incompatible"
+      },
+      {
+        "donationId": "DON-CBE-102",
+        "recipientId": "REC-CBE-205",
+        "recipientName": "Helping Hearts Community Feeding Outreach",
+        "reason": "Delivery arrival (06:35 PM) falls outside operating hours (11:00 - 18:30).",
+        "bindingConstraint": "Operating Hours Closed"
+      },
+      {
+        "donationId": "DON-CBE-102",
+        "recipientId": "REC-TPR-301",
+        "recipientName": "Tiruppur Karunai Community Feeding Centre",
+        "reason": "Rescue window exceeded: Estimated completion time (8:53:06 PM) passes verified safe deadline (7:32:55 PM) by 81 minutes.; Delivery arrival (08:41 PM) falls outside operating hours (08:30 - 20:30).",
+        "bindingConstraint": "Operating Hours Closed"
+      },
+      {
+        "donationId": "DON-CBE-102",
+        "recipientId": "REC-CHN-302",
+        "recipientName": "Akshaya Patra Chennai Kitchen Hub",
+        "reason": "Rescue window exceeded: Estimated completion time (5:26:06 PM) passes verified safe deadline (7:32:55 PM) by 1314 minutes.",
+        "bindingConstraint": "Safety/Deadline"
+      },
+      {
+        "donationId": "DON-CBE-102",
+        "recipientId": "REC-BLR-303",
+        "recipientName": "Robin Hood Army Bengaluru Food Shelter",
+        "reason": "Rescue window exceeded: Estimated completion time (6:51:06 AM) passes verified safe deadline (7:32:55 PM) by 679 minutes.; Delivery arrival (06:39 AM) falls outside operating hours (08:00 - 21:30).",
+        "bindingConstraint": "Operating Hours Closed"
+      },
+      {
+        "donationId": "DON-CBE-110",
+        "recipientId": "REC-CBE-203",
+        "recipientName": "Anbagam Destitute & Senior Care Shelter",
+        "reason": "Recipient \"Anbagam Destitute & Senior Care Shelter\" does not accept category \"Rice & prepared dishes\". Accepted: [Cooked meals, Bakery products, Fruits & vegetables, Packaged food].",
+        "bindingConstraint": "Category Incompatible"
+      },
+      {
+        "donationId": "DON-CBE-110",
+        "recipientId": "REC-CBE-205",
+        "recipientName": "Helping Hearts Community Feeding Outreach",
+        "reason": "Delivery arrival (06:35 PM) falls outside operating hours (11:00 - 18:30).",
+        "bindingConstraint": "Operating Hours Closed"
+      },
+      {
+        "donationId": "DON-CBE-110",
+        "recipientId": "REC-TPR-301",
+        "recipientName": "Tiruppur Karunai Community Feeding Centre",
+        "reason": "Rescue window exceeded: Estimated completion time (8:55:06 PM) passes verified safe deadline (7:32:55 PM) by 83 minutes.; Delivery arrival (08:43 PM) falls outside operating hours (08:30 - 20:30).",
+        "bindingConstraint": "Operating Hours Closed"
+      },
+      {
+        "donationId": "DON-CBE-110",
+        "recipientId": "REC-CHN-302",
+        "recipientName": "Akshaya Patra Chennai Kitchen Hub",
+        "reason": "Rescue window exceeded: Estimated completion time (5:26:06 PM) passes verified safe deadline (7:32:55 PM) by 1314 minutes.",
+        "bindingConstraint": "Safety/Deadline"
+      },
+      {
+        "donationId": "DON-CBE-110",
+        "recipientId": "REC-BLR-303",
+        "recipientName": "Robin Hood Army Bengaluru Food Shelter",
+        "reason": "Rescue window exceeded: Estimated completion time (6:49:06 AM) passes verified safe deadline (7:32:55 PM) by 677 minutes.; Delivery arrival (06:37 AM) falls outside operating hours (08:00 - 21:30).",
+        "bindingConstraint": "Operating Hours Closed"
+      },
+      {
+        "donationId": "DON-CHN-202",
+        "recipientId": "REC-CBE-203",
+        "recipientName": "Anbagam Destitute & Senior Care Shelter",
+        "reason": "Rescue window exceeded: Estimated completion time (3:44:06 PM) passes verified safe deadline (7:32:55 PM) by 2652 minutes.",
+        "bindingConstraint": "Safety/Deadline"
+      },
+      {
+        "donationId": "DON-CHN-202",
+        "recipientId": "REC-CBE-205",
+        "recipientName": "Helping Hearts Community Feeding Outreach",
+        "reason": "Rescue window exceeded: Estimated completion time (4:10:06 PM) passes verified safe deadline (7:32:55 PM) by 2678 minutes.",
+        "bindingConstraint": "Safety/Deadline"
+      },
+      {
+        "donationId": "DON-CHN-202",
+        "recipientId": "REC-TPR-301",
+        "recipientName": "Tiruppur Karunai Community Feeding Centre",
+        "reason": "Rescue window exceeded: Estimated completion time (1:53:06 PM) passes verified safe deadline (7:32:55 PM) by 2541 minutes.",
+        "bindingConstraint": "Safety/Deadline"
+      },
+      {
+        "donationId": "DON-CHN-202",
+        "recipientId": "REC-CHN-302",
+        "recipientName": "Akshaya Patra Chennai Kitchen Hub",
+        "reason": "Rescue window exceeded: Estimated completion time (5:19:06 PM) passes verified safe deadline (7:32:55 PM) by 1307 minutes.",
+        "bindingConstraint": "Safety/Deadline"
+      },
+      {
+        "donationId": "DON-CHN-202",
+        "recipientId": "REC-BLR-303",
+        "recipientName": "Robin Hood Army Bengaluru Food Shelter",
+        "reason": "Rescue window exceeded: Estimated completion time (8:39:06 AM) passes verified safe deadline (7:32:55 PM) by 2227 minutes.",
+        "bindingConstraint": "Safety/Deadline"
+      },
+      {
+        "donationId": "DON-BLR-205",
+        "recipientId": "REC-CBE-203",
+        "recipientName": "Anbagam Destitute & Senior Care Shelter",
+        "reason": "Recipient \"Anbagam Destitute & Senior Care Shelter\" does not accept category \"Rice & prepared dishes\". Accepted: [Cooked meals, Bakery products, Fruits & vegetables, Packaged food].",
+        "bindingConstraint": "Category Incompatible"
+      },
+      {
+        "donationId": "DON-BLR-205",
+        "recipientId": "REC-CBE-205",
+        "recipientName": "Helping Hearts Community Feeding Outreach",
+        "reason": "Rescue window exceeded: Estimated completion time (7:01:06 PM) passes verified safe deadline (7:32:55 PM) by 1409 minutes.; Delivery arrival (06:49 PM) falls outside operating hours (11:00 - 18:30).",
+        "bindingConstraint": "Operating Hours Closed"
+      },
+      {
+        "donationId": "DON-BLR-205",
+        "recipientId": "REC-TPR-301",
+        "recipientName": "Tiruppur Karunai Community Feeding Centre",
+        "reason": "Rescue window exceeded: Estimated completion time (5:48:06 PM) passes verified safe deadline (7:32:55 PM) by 1336 minutes.",
+        "bindingConstraint": "Safety/Deadline"
+      },
+      {
+        "donationId": "DON-BLR-205",
+        "recipientId": "REC-CHN-302",
+        "recipientName": "Akshaya Patra Chennai Kitchen Hub",
+        "reason": "Rescue window exceeded: Estimated completion time (10:04:06 PM) passes verified safe deadline (7:32:55 PM) by 1592 minutes.; Delivery arrival (09:52 PM) falls outside operating hours (07:30 - 21:00).",
+        "bindingConstraint": "Operating Hours Closed"
+      },
+      {
+        "donationId": "DON-BLR-205",
+        "recipientId": "REC-BLR-303",
+        "recipientName": "Robin Hood Army Bengaluru Food Shelter",
+        "reason": "Rescue window exceeded: Estimated completion time (6:44:06 AM) passes verified safe deadline (7:32:55 PM) by 672 minutes.; Delivery arrival (06:32 AM) falls outside operating hours (08:00 - 21:30).",
+        "bindingConstraint": "Operating Hours Closed"
+      },
+      {
+        "donationId": "DON-CBE-105",
+        "recipientId": "REC-CBE-203",
+        "recipientName": "Anbagam Destitute & Senior Care Shelter",
+        "reason": "Recipient \"Anbagam Destitute & Senior Care Shelter\" does not accept category \"Dairy & chilled\". Accepted: [Cooked meals, Bakery products, Fruits & vegetables, Packaged food].",
+        "bindingConstraint": "Category Incompatible"
+      },
+      {
+        "donationId": "DON-CBE-105",
+        "recipientId": "REC-CBE-205",
+        "recipientName": "Helping Hearts Community Feeding Outreach",
+        "reason": "Recipient \"Helping Hearts Community Feeding Outreach\" does not accept category \"Dairy & chilled\". Accepted: [Cooked meals, Rice & prepared dishes, Bakery products].; Donation requires cold-chain holding, but recipient \"Helping Hearts Community Feeding Outreach\" lacks cold storage equipment.",
+        "bindingConstraint": "Category Incompatible"
+      },
+      {
+        "donationId": "DON-CBE-105",
+        "recipientId": "REC-TPR-301",
+        "recipientName": "Tiruppur Karunai Community Feeding Centre",
+        "reason": "Recipient \"Tiruppur Karunai Community Feeding Centre\" does not accept category \"Dairy & chilled\". Accepted: [Cooked meals, Rice & prepared dishes, Bakery products].",
+        "bindingConstraint": "Category Incompatible"
+      },
+      {
+        "donationId": "DON-CBE-105",
+        "recipientId": "REC-CHN-302",
+        "recipientName": "Akshaya Patra Chennai Kitchen Hub",
+        "reason": "Recipient \"Akshaya Patra Chennai Kitchen Hub\" does not accept category \"Dairy & chilled\". Accepted: [Cooked meals, Rice & prepared dishes, Bakery products].",
+        "bindingConstraint": "Category Incompatible"
+      },
+      {
+        "donationId": "DON-CBE-105",
+        "recipientId": "REC-BLR-303",
+        "recipientName": "Robin Hood Army Bengaluru Food Shelter",
+        "reason": "Recipient \"Robin Hood Army Bengaluru Food Shelter\" does not accept category \"Dairy & chilled\". Accepted: [Cooked meals, Rice & prepared dishes, Bakery products].",
+        "bindingConstraint": "Category Incompatible"
+      },
+      {
+        "donationId": "DON-CBE-103",
+        "recipientId": "REC-CBE-205",
+        "recipientName": "Helping Hearts Community Feeding Outreach",
+        "reason": "Delivery arrival (06:33 PM) falls outside operating hours (11:00 - 18:30).",
+        "bindingConstraint": "Operating Hours Closed"
+      },
+      {
+        "donationId": "DON-CBE-103",
+        "recipientId": "REC-CHN-302",
+        "recipientName": "Akshaya Patra Chennai Kitchen Hub",
+        "reason": "Rescue window exceeded: Estimated completion time (2:36:06 PM) passes verified safe deadline (12:02:55 PM) by 154 minutes.",
+        "bindingConstraint": "Safety/Deadline"
+      },
+      {
+        "donationId": "DON-CBE-103",
+        "recipientId": "REC-BLR-303",
+        "recipientName": "Robin Hood Army Bengaluru Food Shelter",
+        "reason": "Delivery arrival (05:06 AM) falls outside operating hours (08:00 - 21:30).",
+        "bindingConstraint": "Operating Hours Closed"
+      },
+      {
+        "donationId": "DON-CBE-104",
+        "recipientId": "REC-CBE-205",
+        "recipientName": "Helping Hearts Community Feeding Outreach",
+        "reason": "Recipient \"Helping Hearts Community Feeding Outreach\" does not accept category \"Fruits & vegetables\". Accepted: [Cooked meals, Rice & prepared dishes, Bakery products].",
+        "bindingConstraint": "Category Incompatible"
+      },
+      {
+        "donationId": "DON-CBE-104",
+        "recipientId": "REC-CHN-302",
+        "recipientName": "Akshaya Patra Chennai Kitchen Hub",
+        "reason": "Recipient \"Akshaya Patra Chennai Kitchen Hub\" does not accept category \"Fruits & vegetables\". Accepted: [Cooked meals, Rice & prepared dishes, Bakery products].",
+        "bindingConstraint": "Category Incompatible"
+      },
+      {
+        "donationId": "DON-CBE-104",
+        "recipientId": "REC-BLR-303",
+        "recipientName": "Robin Hood Army Bengaluru Food Shelter",
+        "reason": "Recipient \"Robin Hood Army Bengaluru Food Shelter\" does not accept category \"Fruits & vegetables\". Accepted: [Cooked meals, Rice & prepared dishes, Bakery products].",
+        "bindingConstraint": "Category Incompatible"
+      },
+      {
+        "donationId": "DON-CBE-104",
+        "recipientId": "REC-CBE-205",
+        "recipientName": "Helping Hearts Community Feeding Outreach",
+        "reason": "Recipient \"Helping Hearts Community Feeding Outreach\" does not accept category \"Fruits & vegetables\". Accepted: [Cooked meals, Rice & prepared dishes, Bakery products].",
+        "bindingConstraint": "Category Incompatible"
+      },
+      {
+        "donationId": "DON-CBE-104",
+        "recipientId": "REC-CHN-302",
+        "recipientName": "Akshaya Patra Chennai Kitchen Hub",
+        "reason": "Recipient \"Akshaya Patra Chennai Kitchen Hub\" does not accept category \"Fruits & vegetables\". Accepted: [Cooked meals, Rice & prepared dishes, Bakery products].",
+        "bindingConstraint": "Category Incompatible"
+      },
+      {
+        "donationId": "DON-CBE-104",
+        "recipientId": "REC-BLR-303",
+        "recipientName": "Robin Hood Army Bengaluru Food Shelter",
+        "reason": "Recipient \"Robin Hood Army Bengaluru Food Shelter\" does not accept category \"Fruits & vegetables\". Accepted: [Cooked meals, Rice & prepared dishes, Bakery products].",
+        "bindingConstraint": "Category Incompatible"
+      }
+    ],
+    "metrics": {
+      "totalSurplusRegistered": 1075,
+      "quantityAllocated": 335,
+      "quantitySafelyDelivered": 335,
+      "quantityAtRisk": 0,
+      "quantityUnallocated": 740,
+      "onTimeDeliveryRate": 100,
+      "demandSatisfactionRate": 57.3,
+      "totalTransportKm": 106,
+      "kmPerRescuedMeal": 0.316,
+      "fairnessIndex": 0.624,
+      "co2PreventedKg": 335,
+      "recoveredAlternativeQuantity": 740,
+      "unrecoverableQuantity": 0
+    },
+    "executionTimeMs": 35.43
+  },
+  "lastUpdated": "2026-10-09T12:39:06.798Z"
+}
